@@ -1,0 +1,130 @@
+/* .carousel.slide{
+    width: 100%;
+    height: 400px;
+} */
+.navbar .one{
+    background-color:rgb(127, 78, 173) ;
+}
+.navbar ul li a{
+    color: white;
+}
+.navbar.navbar-expand-lg{
+    position: sticky;
+}
+.carousel-inner .carousel-item img{
+    height: 500px;
+    
+    
+}
+.one p{
+    color: aliceblue;
+}
+.one ul a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.one ul a:hover{
+    color: rgb(146, 140, 140);
+}
+.one ul i{
+    margin-left: 10px;
+}
+.content1 ul li a{
+    color: aliceblue;
+}
+.row{
+    display: flex;
+}
+.row h2{
+    text-transform: uppercase;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: dotted ;
+    text-align: center;
+}
+.col-6{
+    width: 90%;
+    height: 300px;
+    display: flex;
+}
+.col-6 button{
+    margin-left: 12px;
+    margin-top: 183px;
+    background-color:rgb(127, 78, 173) ;
+    color: white;
+    border: solid white;
+}
+.col img{
+    width: 100%;
+    height: 400px;
+    font-family: fantasy;
+}
+.col img:hover{
+    box-shadow: 5px rgb(117, 100, 100);
+
+}
+.col h4.b{
+    color: palevioletred;
+}
+.col h4.o{
+    color: rgb(9, 70, 9);
+}
+.col h4.d{
+    color: rgba(202, 149, 52, 0.76);
+}
+.col h4.c{
+    color: rgb(121, 21, 21);
+}
+
+
+.footer .foot .top1{
+   align-items: center; 
+   background-color: rgb(127, 78, 173 );
+
+}
+.top1{
+    width: 20%;
+    height: 100px;
+}
+.top1 img{
+    width:10%;
+    margin-left: 48%;
+}
+.top1 h6{
+    margin-left: 52%;
+    margin-top: -25px;
+    color: rgb(127, 78, 173 );
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.foot2 .row {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+.row .col4 img{
+    width: 5%;
+    padding: 4px;
+    border-radius: 41px;
+    background-color: rgb(127, 78, 173 ) ;
+    border: 10px;
+    border-color: white;
+}
+
+.row .col4{
+    background-color:rgb(127, 78, 173 ) ;
+    color: white;
+    width: 100%;
+    
+}
+/* .row .col4.quality img{
+    width: 5%;
+    padding: 5px;
+    border-radius: 5px;
+}
+.row .col4.secure img{
+    width: 5%;
+    padding: 5px;
+    border-radius: 5px;
+} */
